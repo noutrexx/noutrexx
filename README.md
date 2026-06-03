@@ -1,8 +1,8 @@
 # Hi, I'm Üzeyir Kozan
 
-### Software Engineering Student | Full-Stack Developer from Turkey
+### Software Engineering Student | Full-Stack Developer
 
-I build full-stack web apps, finance tools, real-time alert systems, and computer vision experiments.
+I build full-stack apps, finance tools, real-time alert systems, and applied AI projects.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noutrexx&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/noutrexx)
 
@@ -10,11 +10,31 @@ I build full-stack web apps, finance tools, real-time alert systems, and compute
 
 ### About Me
 
-- I'm currently building the **Onboard Alert** ecosystem — a live news and crisis map platform with an interactive map UI, admin dashboard, bot ingestion, and a **FastAPI** feed collector
-- I'm working on **AI-powered finance tools**, technical alert bots, and BIST-focused algorithmic trading/backtesting projects
-- I'm experimenting with **computer vision for disaster damage detection** using xView2/xBD datasets
-- I'm focused on **full-stack development, financial software, real-time data workflows, and applied AI**
-- You can reach me at **uzeyirkozan@icloud.com**
+- Studying software engineering in Turkey
+- Building portfolio projects with React, Next.js, Node.js, FastAPI, MongoDB, Oracle, and PostgreSQL
+- Interested in finance dashboards, alert systems, technical analysis tools, and computer vision prototypes
+- Keeping my projects simple, documented, and easy to test
+- Reach me at **uzeyirkozan@icloud.com**
+
+---
+
+### Main Focus
+
+- Full-stack web applications
+- Finance and portfolio tracking tools
+- Real-time news and alert systems
+- Applied AI and computer vision experiments
+
+---
+
+### Commit Style
+
+I use clear commit messages such as:
+
+- \`feat: add portfolio dashboard\`
+- \`fix: improve API error handling\`
+- \`docs: update README screenshots\`
+- \`refactor: simplify dashboard state\`
 
 ---
 
