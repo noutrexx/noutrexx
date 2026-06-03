@@ -20,7 +20,11 @@ I enjoy building software, exploring algorithmic trading, and pushing the limits
 
 ### Connect with me
 
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/uzeyirkozan)
+<p align="left">
+  <a href="https://instagram.com/uzeyirkozan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uzeyirkozan" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
