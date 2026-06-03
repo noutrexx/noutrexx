@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Üzeyir%20Kozan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18)](https://github.com/noutrexx)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Üzeyir%20Kozan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18)](https://github.com/noutrexx)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%92%BB;Algorithmic+Trading+Enthusiast+%F0%9F%93%88;Computer+Vision+%26+Deep+Learning+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noutrexx&label=Profile%20Views&color=8B5CF6&style=for-the-badge)](https://github.com/noutrexx)
@@ -8,7 +8,7 @@
 
 ---
 
-## 💫 Hakkımda
+## 💫 Hakkımda 
 
 ```javascript
 const uzeyir = {
