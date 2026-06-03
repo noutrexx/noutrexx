@@ -14,13 +14,13 @@ I enjoy building software, exploring algorithmic trading, and pushing the limits
 - I'm interested in **full-stack development, algorithmic trading, and computer vision**
 - I'm working with **YOLOv8** for satellite imagery damage detection (xView2 dataset)
 - I'm always trying to learn new technologies and improve my coding skills
-- You can reach me at **uzeyirkozan@gmail.com**
+- You can reach me at **uzeyirkozan@icloud.com**
 
 ---
 
 ### Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/uzeyirkozan)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/uzeyirkozan)
 
 ---
 
