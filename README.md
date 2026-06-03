@@ -31,10 +31,10 @@ I build full-stack apps, finance tools, real-time alert systems, and applied AI 
 
 I use clear commit messages such as:
 
-- \`feat: add portfolio dashboard\`
-- \`fix: improve API error handling\`
-- \`docs: update README screenshots\`
-- \`refactor: simplify dashboard state\`
+- `feat: add portfolio dashboard`
+- `fix: improve API error handling`
+- `docs: update README screenshots`
+- `refactor: simplify dashboard state`
 
 ---
 
