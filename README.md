@@ -11,7 +11,7 @@ I build full-stack apps, finance tools, real-time alert systems, and applied AI 
 ### About Me
 
 - Studying software engineering in Turkey
-- Building portfolio projects with React, Next.js, Node.js, FastAPI, MongoDB, Oracle, and PostgreSQL
+- Building portfolio projects with React, Next.js, Node.js, FastAPI, Oracle, and PostgreSQL
 - Interested in finance dashboards, alert systems, technical analysis tools, and computer vision prototypes
 - Keeping my projects simple, documented, and easy to test
 - Reach me at **uzeyirkozan@icloud.com**
@@ -24,19 +24,6 @@ I build full-stack apps, finance tools, real-time alert systems, and applied AI 
 - Finance and portfolio tracking tools
 - Real-time news and alert systems
 - Applied AI and computer vision experiments
-
----
-
-### Commit Style
-
-I use clear commit messages such as:
-
-- `feat: add portfolio dashboard`
-- `fix: improve API error handling`
-- `docs: update README screenshots`
-- `refactor: simplify dashboard state`
-
----
 
 ### Connect with me
 
@@ -64,10 +51,10 @@ I use clear commit messages such as:
 
 ---
 
-### Contribution Graph
+### Snake Game Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake.svg">
 </picture>
