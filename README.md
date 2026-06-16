@@ -54,7 +54,7 @@ I build full-stack apps, finance tools, real-time alert systems, and applied AI 
 ### Snake Game Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake-dark.svg?v=20260616071405">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake.svg?v=20260616071405">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noutrexx/noutrexx/output/github-contribution-grid-snake.svg?v=20260616071405">
 </picture>
